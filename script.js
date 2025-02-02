@@ -1,5 +1,5 @@
 const letterText = [
-  "Happy first monthsary babe! ❤️",
+  "Happy 1st monthsary babe! ❤️",
 
   "It’s been a month, but it feels like I’ve known you forever since our first meeting last year HAHAHA. Every moment with you is special, and I’m so grateful to have you in my life Clab. You make me smile, you make my days brighter, and you make my heart feel at home.",
 
