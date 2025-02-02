@@ -9,7 +9,7 @@ const letterText = [
 
   "I love you, Dear. 💕",
 
-  "Your Love,\nIvan",
+  "Your Love,<br>Ivan",
 ];
 
 let index = 0;
